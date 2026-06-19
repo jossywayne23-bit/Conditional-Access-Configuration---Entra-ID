@@ -17,7 +17,6 @@
   - [Step 6 — Configure Grant Controls](#step-6--configure-grant-controls)
   - [Step 7 — Configure Session Controls](#step-7--configure-session-controls)
   - [Step 8 — Enable and Monitor the Policy](#step-8--enable-and-monitor-the-policy)
-- [Screenshots](#screenshots)
 - [Best Practices Summary](#best-practices-summary)
 - [Key Concepts Reference](#key-concepts-reference)
 - [Resources](#resources)
